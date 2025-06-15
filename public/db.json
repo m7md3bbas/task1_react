@@ -1,0 +1,65 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "React Tutorial",
+        "url": "https://www.youtube.com/embed/dGcsHMXbSOA",
+        "thumbnail": "https://img.youtube.com/vi/dGcsHMXbSOA/0.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Node.js Crash Course",
+        "url": "https://www.youtube.com/embed/fBNz5xF-Kx4",
+        "thumbnail": "https://img.youtube.com/vi/fBNz5xF-Kx4/0.jpg"
+      },
+      {
+        "id": 3,
+        "title": "HTML & CSS Full Course",
+        "url": "https://www.youtube.com/embed/mU6anWqZJcc",
+        "thumbnail": "https://img.youtube.com/vi/mU6anWqZJcc/0.jpg"
+      },
+      {
+        "id": 4,
+        "title": "JavaScript Basics",
+        "url": "https://www.youtube.com/embed/W6NZfCO5SIk",
+        "thumbnail": "https://img.youtube.com/vi/W6NZfCO5SIk/0.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Python for Beginners",
+        "url": "https://www.youtube.com/embed/_uQrJ0TkZlc",
+        "thumbnail": "https://img.youtube.com/vi/_uQrJ0TkZlc/0.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Flutter Tutorial",
+        "url": "https://www.youtube.com/embed/x0uinJvhNxI",
+        "thumbnail": "https://img.youtube.com/vi/x0uinJvhNxI/0.jpg"
+      },
+      {
+        "id": 7,
+        "title": "MongoDB Tutorial",
+        "url": "https://www.youtube.com/embed/oSIv-E60NiU",
+        "thumbnail": "https://img.youtube.com/vi/oSIv-E60NiU/0.jpg"
+      },
+      {
+        "id": 8,
+        "title": "MySQL Tutorial",
+        "url": "https://www.youtube.com/embed/HXV3zeQKqGY",
+        "thumbnail": "https://img.youtube.com/vi/HXV3zeQKqGY/0.jpg"
+      },
+      {
+        "id": 9,
+        "title": "TypeScript in 100 Seconds",
+        "url": "https://www.youtube.com/embed/zQnBQ4tB3ZA",
+        "thumbnail": "https://img.youtube.com/vi/zQnBQ4tB3ZA/0.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Docker Crash Course",
+        "url": "https://www.youtube.com/embed/pTFZFxd4hOI",
+        "thumbnail": "https://img.youtube.com/vi/pTFZFxd4hOI/0.jpg"
+      }
+    ]
+  }
+  

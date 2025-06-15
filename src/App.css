@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 4rem auto;
+  width: 90%;
+  padding: 0 1rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  border: 2px solid black;
+
+}
+
+.card figure {
+  width: 100%;
+  height: 60%;
+  overflow: hidden;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.card h3 {
+  padding: 1rem;
+  flex-grow: 1;
+}
+h1{
+  text-align: center;
+}
